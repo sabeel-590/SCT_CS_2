@@ -125,3 +125,12 @@ This project successfully demonstrates image encryption and decryption using pix
 
 ## Outputs
 <img width="1036" height="780" alt="Image" src="https://github.com/user-attachments/assets/bbf50344-c58d-491e-9eac-b017a2eae1ae" />
+
+## ORIGINAL
+<img width="3840" height="2160" alt="Image" src="https://github.com/user-attachments/assets/f8cca28e-d203-4901-b3e7-b20febb4f25d" />
+
+## Encrypted
+<img width="1147" height="623" alt="Image" src="https://github.com/user-attachments/assets/219be8d2-b4ba-4dff-86c5-69525b8a53bf" />
+
+## Decrypted
+<img width="1145" height="631" alt="Image" src="https://github.com/user-attachments/assets/dee022dd-9c02-4f5f-99d3-8861f9dcfe09" />
