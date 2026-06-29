@@ -124,4 +124,4 @@ Modern Custom UI
 This project successfully demonstrates image encryption and decryption using pixel manipulation techniques. It provides practical knowledge of image security concepts and strengthens foundational cyber security skills.
 
 ## Outputs
-
+<img width="1036" height="780" alt="Image" src="https://github.com/user-attachments/assets/bbf50344-c58d-491e-9eac-b017a2eae1ae" />
